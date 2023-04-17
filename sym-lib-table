@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MIMXRT1062DVJ6B")(type "KiCad")(uri "${KIPRJMOD}/MIMXRT1062DVJ6B/MIMXRT1062DVJ6B.kicad_sym")(options "")(descr ""))
   (lib (name "DP83825IRMQR")(type "KiCad")(uri "${KIPRJMOD}/DP83825/DP83825IRMQR.kicad_sym")(options "")(descr ""))
+  (lib (name "ARJP11B-MASA-B-A-EMU2")(type "KiCad")(uri "${KIPRJMOD}/ARJP11B-MASA-B-A-EMU2/ARJP11B-MASA-B-A-EMU2.kicad_sym")(options "")(descr ""))
 )

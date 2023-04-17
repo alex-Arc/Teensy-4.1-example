@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DP83825IRMQR")(type "KiCad")(uri "${KIPRJMOD}/DP83825/DP83825IRMQR.pretty")(options "")(descr ""))
+  (lib (name "ARJP11B-MASA-B-A-EMU2")(type "KiCad")(uri "${KIPRJMOD}/ARJP11B-MASA-B-A-EMU2/ARJP11B-MASA-B-A-EMU2.pretty")(options "")(descr ""))
+)
